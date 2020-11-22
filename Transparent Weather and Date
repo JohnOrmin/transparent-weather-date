@@ -5,7 +5,7 @@
  */
  
 // To use weather, get a free API key at openweathermap.org/appid and paste it in between the quotation marks.
-const apiKey = "2cdf55c34abb104629e97af3580e2cdf"
+const apiKey = ""
 
 const nobg = importModule('no-background.js')
  
